@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffffff</color>
+    <color name="activity_bg_color">#fff5f5f5</color>
+    <color name="left_drawer_item_bg_normal">#ff393939</color>
+    <color name="left_drawer_user_name">#ffd4d4d4</color>
+    <color name="left_drawer_item_text_normal">#ffd4d4d4</color>
+    <color name="left_drawer_item_text_pressed">#ff4e4e4e</color>
+    <color name="left_drawer_item_text_tip">#fffe3232</color>
+    <color name="left_drawer_item_bg_pressed">#ff292929</color>
+    <color name="left_drawer_item_line">#ff272727</color>
+    <color name="left_drawer_no_login_tip_text">#ffb8b8b8</color>
+    <color name="left_drawer_offline_line">#ff4bbff6</color>
+    <color name="left_drawer_offline_hint">#ff6699cc</color>
+    <color name="left_drawer_night_mode_text">#ffb8b8b8</color>
+    <color name="drawer_text">#ffc3c3c3</color>
+    <color name="drawer_divider">#ff303030</color>
+    <color name="drawer_right_logout_op_layout_bg">#ffbaf2fe</color>
+    <color name="drawer_right_logout_op_layout_bg_night">#ff4a6166</color>
+    <color name="drawer_right_logout_bg">#ffffffff</color>
+    <color name="drawer_right_logout_bg_night">#ff1a1a1a</color>
+    <color name="drawer_right_logout_hint_text_bg">#ff2bb2cf</color>
+    <color name="drawer_right_logout_hint_text_night">#ff77828f</color>
+    <color name="notify_view_divider">#66ffffff</color>
+    <color name="list_notify_text">#ffffffff</color>
+    <color name="default_text">#ff454545</color>
+    <color name="image_loading_bg">#ffefefef</color>
+
+    <color name="item_title_normal">#ff444444</color>
+    <color name="item_title_disabled">#ff888888</color>
+
+
+</resources>

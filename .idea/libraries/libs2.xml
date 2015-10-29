@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://E:/work/开原计划/OneAndroidiFramework/OneFramework/libs/android-support-v13.jar!/" />
+      <root url="jar://E:/work/开原计划/OneAndroidiFramework/OneFramework/libs/universal-image-loader-1.9.4.jar!/" />
+      <root url="jar://E:/work/开原计划/OneAndroidiFramework/OneFramework/libs/eventbus-3.0.0-beta1.jar!/" />
+      <root url="jar://E:/work/开原计划/OneAndroidiFramework/OneFramework/libs/butterknife-7.0.1.jar!/" />
+      <root url="jar://E:/work/开原计划/OneAndroidiFramework/OneFramework/libs/gson-2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="user_channel_data">
+        <item>推荐=news_entertainment</item>
+        <item>热点=news_hot</item>
+        <item>社会=news_society</item>
+        <item>科技=news_tech</item>
+        <item>娱乐=news_entertainment</item>
+        <item>财经=news_finance</item>
+        <item>汽车=news_car</item>
+        <item>时尚=news_fashion</item>
+        <item>军事=news_military</item>
+        <item>国际=news_world</item>
+        <item>旅游=news_travel</item>
+        <item>美食=news_food</item>
+        <item>育儿=news_baby</item>
+        <item>养生=news_regimen</item>
+        <item>故事=news_story</item>
+        <item>美文=news_essay</item>
+        <item>体育=news_sports</item>
+    </array>
+</resources>
