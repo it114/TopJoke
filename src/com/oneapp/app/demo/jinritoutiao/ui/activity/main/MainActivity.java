@@ -18,7 +18,7 @@ import com.oneapp.app.demo.jinritoutiao.R;
 import com.oneapp.app.demo.jinritoutiao.adapter.NewsFragmentPagerAdapter;
 import com.oneapp.app.demo.jinritoutiao.bean.ChannelItem;
 import com.oneapp.app.demo.jinritoutiao.ui.activity.ChannelActivity;
-import com.oneapp.app.demo.jinritoutiao.ui.fragment.news.NewsFragment;
+import com.oneapp.app.demo.jinritoutiao.ui.fragment.joke.NewsFragment;
 import com.oneapp.app.demo.jinritoutiao.view.ColumnHorizontalScrollView;
 import com.oneapp.app.demo.jinritoutiao.view.DrawerView;
 

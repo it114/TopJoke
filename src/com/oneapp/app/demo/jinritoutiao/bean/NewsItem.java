@@ -1,9 +1,8 @@
 package com.oneapp.app.demo.jinritoutiao.bean;
 
-import com.google.gson.Gson;
 import com.it114.android.oneframework.core.bean.BaseBean;
 import java.util.ArrayList;
-import java.util.List;
+
 
 /**
  * Created by andy on 10/27/2015.

@@ -1,11 +1,11 @@
 // Generated code from Butter Knife. Do not modify!
-package com.oneapp.app.demo.jinritoutiao.ui.fragment.news;
+package com.oneapp.app.demo.jinritoutiao.ui.fragment.joke;
 
 import android.view.View;
 import butterknife.ButterKnife.Finder;
 import butterknife.ButterKnife.ViewBinder;
 
-public class NewsFragment$$ViewBinder<T extends com.oneapp.app.demo.jinritoutiao.ui.fragment.news.NewsFragment> implements ViewBinder<T> {
+public class NewsFragment$$ViewBinder<T extends com.oneapp.app.demo.jinritoutiao.ui.fragment.joke.NewsFragment> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
     view = finder.findRequiredView(source, 2131034161, "field 'mListView'");

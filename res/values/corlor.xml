@@ -30,4 +30,11 @@
     <color name="item_title_disabled">#ff888888</color>
 
 
+
+    <color name="window_bg">#ffe3e3e3</color>
+
+    <color name="content_des_text_color">#ffa3a3a3</color>
+
+    <color name="content_text_color">#ff45474b</color>
+
 </resources>

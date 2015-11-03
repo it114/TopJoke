@@ -19,7 +19,7 @@
             android:layout_centerInParent="true"
             android:src="@drawable/detail_loading" />
 
-    <com.oneapp.app.demo.jinritoutiao.view.HeadListView
+    <com.oneapp.app.demo.topjoke.view.HeadListView
             android:id="@+id/mListView"
             android:layout_width="match_parent"
             android:layout_height="match_parent"

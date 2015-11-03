@@ -1,6 +1,5 @@
-package com.oneapp.app.demo.jinritoutiao.ui.fragment.news;
+package com.oneapp.app.demo.jinritoutiao.ui.fragment.joke;
 
-import com.it114.android.oneframework.core.http.HttpRequestHandler;
 import com.it114.android.oneframework.core.ui.presenter.BaseFragmentPresenter;
 
 /**
